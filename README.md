@@ -6,6 +6,7 @@ my projects:
 - 📖 Eldritch-horror codejam: https://romanjhyltsou.github.io/EldritchHorrorCodejam/#  
 https://github.com/romanjhyltsou/EldritchHorrorCodejam/tree/gh-pages  
 - 📖 GameDog: https://romanjhyltsou.github.io/finalGameDog/  
+game control: left, right, up, down, enter.
 https://github.com/romanjhyltsou/finalGameDog/tree/finalGameDog
 <!--
 **romanjhyltsou/romanjhyltsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
