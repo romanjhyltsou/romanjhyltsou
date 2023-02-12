@@ -2,7 +2,7 @@
 My cv:
 https://romanjhyltsou.github.io/rsschool-cv/
 
-my projects  
+my projects:  
 -📖 Eldritch-horror codejam: https://romanjhyltsou.github.io/EldritchHorrorCodejam/#  
 https://github.com/romanjhyltsou/EldritchHorrorCodejam/tree/gh-pages
 <!--
