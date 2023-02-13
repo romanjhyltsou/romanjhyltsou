@@ -15,6 +15,8 @@ https://github.com/romanjhyltsou/momentum/tree/gh-pages
 (Clock and Calendar, Greeting, Changing Background Image, Weather Widget, Quote of the Day Widget  
 Advanced Audio Player (implemented without using libraries), Application Translation into Two Languages (en/ru),Obtaining Background Image from API,  
 Application Settings,ToDo List)  
+- 📖 gem-puzzle (QUIZ): https://romanjhyltsou.github.io/gem-puzzle/  
+https://github.com/romanjhyltsou/gem-puzzle/tree/gh-pages
 <!--
 **romanjhyltsou/romanjhyltsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
