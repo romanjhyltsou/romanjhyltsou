@@ -1,6 +1,7 @@
 ### Hi there 👋
 My cv:
-https://romanjhyltsou.github.io/rsschool-cv/
+https://romanjhyltsou.github.io/rsschool-cv/  
+https://github.com/romanjhyltsou/rsschool-cv/tree/rsschool-cv-html  
 
 my projects:  
 - 📖 GameDog: https://romanjhyltsou.github.io/finalGameDog/  
