@@ -24,6 +24,8 @@ https://github.com/romanjhyltsou/songbird/tree/gh-pages
 https://github.com/romanjhyltsou/online-zoo/tree/gh-pages  
 - 📖 travel: https://romanjhyltsou.github.io/travel/  
 https://github.com/romanjhyltsou/travel/tree/gh-pages  
+- 📖 siriusSPB: https://romanjhyltsou.github.io/siriusSPB/  
+https://github.com/romanjhyltsou/siriusSPB/tree/gh-pages  
 
 <!--
 **romanjhyltsou/romanjhyltsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
