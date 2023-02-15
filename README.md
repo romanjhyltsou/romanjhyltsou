@@ -29,7 +29,10 @@ https://github.com/romanjhyltsou/siriusSPB/tree/gh-pages
 - 📖 ThisSiteLogo: https://romanjhyltsou.github.io/ThisSiteLogo/   
 https://github.com/romanjhyltsou/ThisSiteLogo/tree/gh-pages  
 - 📖 Жилой комплекс Мелодия: https://romanjhyltsou.github.io/ResidentialComplexMelodiyaJS/  
-https://github.com/romanjhyltsou/ResidentialComplexMelodiyaJS/tree/gh-pages
+https://github.com/romanjhyltsou/ResidentialComplexMelodiyaJS/tree/gh-pages  
+- 📖 theaterSPB: https://romanjhyltsou.github.io/theaterSPB/ 
+https://github.com/romanjhyltsou/theaterSPB/tree/Theater  
+
 <!--
 **romanjhyltsou/romanjhyltsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
