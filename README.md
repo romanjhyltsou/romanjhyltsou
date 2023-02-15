@@ -19,7 +19,9 @@ Application Settings,ToDo List)
 - 📖 gem-puzzle: https://romanjhyltsou.github.io/gem-puzzle/  
 https://github.com/romanjhyltsou/gem-puzzle/tree/gh-pages  
 - 📖 songbird (QUIZ):https://romanjhyltsou.github.io/songbird/  
-- https://github.com/romanjhyltsou/songbird/tree/gh-pages
+https://github.com/romanjhyltsou/songbird/tree/gh-pages  
+- 📖 online-zoo:https://romanjhyltsou.github.io/online-zoo/  
+https://github.com/romanjhyltsou/online-zoo/tree/gh-pages  
 <!--
 **romanjhyltsou/romanjhyltsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
