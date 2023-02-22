@@ -30,7 +30,7 @@ https://github.com/romanjhyltsou/siriusSPB/tree/gh-pages
 https://github.com/romanjhyltsou/ThisSiteLogo/tree/gh-pages  
 - 📖 Жилой комплекс Мелодия: https://romanjhyltsou.github.io/ResidentialComplexMelodiyaJS/  
 https://github.com/romanjhyltsou/ResidentialComplexMelodiyaJS/tree/gh-pages  
-- 📖 theaterSPB: https://romanjhyltsou.github.io/theaterSPB/ 
+- 📖 theaterSPB: https://romanjhyltsou.github.io/theaterSPB/  
 https://github.com/romanjhyltsou/theaterSPB/tree/Theater  
 
 <!--
